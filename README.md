@@ -1,4 +1,4 @@
-# Session Android
+# Privacy Society Session Android
 
 [Download on the Google Play Store](https://getsession.org/android)
 
