@@ -27,9 +27,8 @@
                 android:layout_marginLeft="20dp"
                 android:layout_marginRight="20dp">
 
-                <include
+                <org.thoughtcrime.securesms.components.ProfilePictureView
                     android:id="@+id/profileButton"
-                    layout="@layout/view_profile_picture"
                     android:layout_width="@dimen/small_profile_picture_size"
                     android:layout_height="@dimen/small_profile_picture_size"
                     android:layout_alignParentLeft="true"
@@ -111,7 +110,7 @@
                     android:layout_gravity="center"
                     android:textColor="?message_sent_text_color"
                     android:background="?colorAccent"
-                    android:textSize="9sp"
+                    android:textSize="11sp"
                     android:paddingVertical="4dp"
                     android:paddingHorizontal="64dp"
                     android:gravity="center"
